@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089345841540",
+    "project_id": "chatapptute-558db",
+    "storage_bucket": "chatapptute-558db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089345841540:android:50676200bc75b9aed995d1",
+        "android_client_info": {
+          "package_name": "com.example.charan_chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG-dBFuLmKT1y1WUFBnmwdxfkO9w4NPac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
